@@ -1,0 +1,6 @@
+,MAE (MW),MAPE (%),RMSE (MW)
+Baseline día anterior,1928.0,6.21,2894.0
+Baseline semana anterior,1392.0,4.42,2074.0
+Regresión lineal,1112.0,3.54,1522.0
+Random Forest (8 var.),943.0,2.9,1383.0
+Random Forest (11 var.),933.0,2.87,1356.0
