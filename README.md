@@ -70,9 +70,15 @@ probé una regresión lineal y un Random Forest.
 
 Lo que más me sorprendió fue la temperatura. La relación con la demanda tiene
 forma de U: se consume más cuando hace mucho frío y cuando hace mucho calor.
-Por eso la correlación sale casi cero aunque la relación es fuerte. Fue una
+Por eso la correlación es de solo 0,30, aunque la relación es fuerte. Fue una
 buena lección: una correlación baja no significa que no haya relación, solo
 que no es una línea recta.
+
+En esta gráfica, con datos horarios, el lado del frío apenas se aprecia: en
+Madrid las horas más frías son de noche, cuando la demanda ya es baja por sí
+misma. Al usar medias diarias de los días laborables, la U se ve con claridad:
+unos 32.000 MW con 2–5 °C, un mínimo de unos 28.000 MW entre 14 y 17 °C, y
+unos 35.000 MW con 30 °C.
 
 ## Cómo separé los datos
 
